@@ -1,2 +1,2 @@
 # hello-world
-Hello world! My name is Son
+the first repository
